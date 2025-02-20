@@ -1,0 +1,129 @@
+#container {
+    color: #000;
+    font-size: 19px;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: center;
+    gap: 0px;
+    opacity: 0px;
+}
+
+#article {
+    display: inline-block;
+    text-align: left;
+
+
+}
+
+#article img {
+    display: inline-block;
+    width: 350px;
+    height: auto;
+    border-radius: 8px;
+    margin-right: 20px;
+    text-align: left;
+
+}
+
+#content h2 {
+    display: inline-block;
+    text-align: center;
+    font-family: Lato;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    margin: auto;
+    padding-top: 12px;
+    text-transform: uppercase;
+}
+
+#content p {
+    display: block;
+    text-align: left;
+    color: #414651;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 120% */
+    width: 50%;
+    /*padding: 55px 669px 1297px 1597px;*/
+}
+
+#content ol {
+    display: block;
+    color: #0073e6;
+    text-align: left;
+    text-decoration: none;
+    width: 50%;
+}
+
+#paragraph {
+    display: block;
+    color: yellow;
+    font-size: 24px;
+    font-style: normal;
+    line-height: 32px;
+    /* 133.333% */
+    width: 177px;
+    text-align: center;
+    gap: 10px;
+    border: 2px solid rgba(206, 162, 1, 1);
+
+}
+
+#creatures h2 {
+    color: #000;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+#creatures h3 {
+    color: green;
+    text-align: right;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#creatures ol {
+    color: #FF5DA3;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+}
+
+#highlight-box {
+    display: block;
+    background-color: hsl(322, 83%, 72%);
+    border-radius: 5px;
+    padding: 10px;
+    margin: ;
+    border: 5px solid #740463; 
+    padding-top: 10px;
+}
+
+#bottom-link {
+    color: #00D4BC;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 133.333% */
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: auto;
+    text-decoration-thickness: auto;
+    text-underline-offset: auto;
+    text-underline-position: from-font;
+}
